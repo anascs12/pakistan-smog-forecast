@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-11 00:26 PKT",
+ "generated_at": "2026-10-11 12:29 PKT",
  "issue_day": "2026-10-10",
  "trained_through": "2026-09-30",
  "forecasts": [
@@ -7,35 +7,35 @@
    "city": "Islamabad",
    "horizon": 1,
    "date": "2026-10-11",
-   "pm25": 43.7,
+   "pm25": 39.8,
    "category": "Unhealthy for sensitive groups"
   },
   {
    "city": "Karachi",
    "horizon": 1,
    "date": "2026-10-11",
-   "pm25": 26.1,
+   "pm25": 26.9,
    "category": "Moderate"
   },
   {
    "city": "Lahore",
    "horizon": 1,
    "date": "2026-10-11",
-   "pm25": 38.9,
+   "pm25": 36.7,
    "category": "Unhealthy for sensitive groups"
   },
   {
    "city": "Peshawar",
    "horizon": 1,
    "date": "2026-10-11",
-   "pm25": 49.6,
+   "pm25": 40.9,
    "category": "Unhealthy for sensitive groups"
   },
   {
    "city": "Islamabad",
    "horizon": 2,
    "date": "2026-10-12",
-   "pm25": 38.2,
+   "pm25": 37.8,
    "category": "Unhealthy for sensitive groups"
   },
   {
@@ -49,42 +49,42 @@
    "city": "Lahore",
    "horizon": 2,
    "date": "2026-10-12",
-   "pm25": 45.9,
+   "pm25": 52.9,
    "category": "Unhealthy for sensitive groups"
   },
   {
    "city": "Peshawar",
    "horizon": 2,
    "date": "2026-10-12",
-   "pm25": 40.4,
+   "pm25": 38.9,
    "category": "Unhealthy for sensitive groups"
   },
   {
    "city": "Islamabad",
    "horizon": 3,
    "date": "2026-10-13",
-   "pm25": 43.8,
+   "pm25": 41.1,
    "category": "Unhealthy for sensitive groups"
   },
   {
    "city": "Karachi",
    "horizon": 3,
    "date": "2026-10-13",
-   "pm25": 39.4,
+   "pm25": 38.9,
    "category": "Unhealthy for sensitive groups"
   },
   {
    "city": "Lahore",
    "horizon": 3,
    "date": "2026-10-13",
-   "pm25": 57.1,
+   "pm25": 57.0,
    "category": "Unhealthy"
   },
   {
    "city": "Peshawar",
    "horizon": 3,
    "date": "2026-10-13",
-   "pm25": 42.6,
+   "pm25": 41.8,
    "category": "Unhealthy for sensitive groups"
   }
  ],
@@ -157,7 +157,7 @@
   {
    "city": "Lahore",
    "date": "2026-10-10",
-   "pm25": 50.3
+   "pm25": 52.5
   },
   {
    "city": "Peshawar",
@@ -227,7 +227,7 @@
   {
    "city": "Peshawar",
    "date": "2026-10-10",
-   "pm25": 51.1
+   "pm25": 50.1
   },
   {
    "city": "Islamabad",
@@ -297,7 +297,7 @@
   {
    "city": "Islamabad",
    "date": "2026-10-10",
-   "pm25": 46.2
+   "pm25": 48.8
   },
   {
    "city": "Karachi",
@@ -367,7 +367,7 @@
   {
    "city": "Karachi",
    "date": "2026-10-10",
-   "pm25": 24.7
+   "pm25": 27.0
   }
  ]
 }
