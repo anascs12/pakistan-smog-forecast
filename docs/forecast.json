@@ -1,99 +1,94 @@
 {
- "generated_at": "2026-10-19 11:26 PKT",
- "issue_day": "2026-10-18",
+ "generated_at": "2026-10-20 11:14 PKT",
+ "issue_day": "2026-10-19",
  "trained_through": "2026-09-30",
  "forecasts": [
   {
    "city": "Islamabad",
    "horizon": 1,
-   "date": "2026-10-19",
-   "pm25": 25.8,
+   "date": "2026-10-20",
+   "pm25": 27.9,
    "category": "Moderate"
   },
   {
    "city": "Karachi",
    "horizon": 1,
-   "date": "2026-10-19",
-   "pm25": 41.2,
-   "category": "Unhealthy for sensitive groups"
+   "date": "2026-10-20",
+   "pm25": 35.3,
+   "category": "Moderate"
   },
   {
    "city": "Lahore",
    "horizon": 1,
-   "date": "2026-10-19",
-   "pm25": 57.2,
+   "date": "2026-10-20",
+   "pm25": 58.5,
    "category": "Unhealthy"
   },
   {
    "city": "Peshawar",
    "horizon": 1,
-   "date": "2026-10-19",
-   "pm25": 33.7,
+   "date": "2026-10-20",
+   "pm25": 35.2,
    "category": "Moderate"
   },
   {
    "city": "Islamabad",
    "horizon": 2,
-   "date": "2026-10-20",
-   "pm25": 27.0,
+   "date": "2026-10-21",
+   "pm25": 29.4,
    "category": "Moderate"
   },
   {
    "city": "Karachi",
    "horizon": 2,
-   "date": "2026-10-20",
-   "pm25": 36.7,
-   "category": "Unhealthy for sensitive groups"
+   "date": "2026-10-21",
+   "pm25": 30.9,
+   "category": "Moderate"
   },
   {
    "city": "Lahore",
    "horizon": 2,
-   "date": "2026-10-20",
-   "pm25": 55.1,
-   "category": "Unhealthy for sensitive groups"
+   "date": "2026-10-21",
+   "pm25": 69.9,
+   "category": "Unhealthy"
   },
   {
    "city": "Peshawar",
    "horizon": 2,
-   "date": "2026-10-20",
-   "pm25": 35.8,
+   "date": "2026-10-21",
+   "pm25": 38.7,
    "category": "Unhealthy for sensitive groups"
   },
   {
    "city": "Islamabad",
    "horizon": 3,
-   "date": "2026-10-21",
-   "pm25": 28.9,
+   "date": "2026-10-22",
+   "pm25": 27.5,
    "category": "Moderate"
   },
   {
    "city": "Karachi",
    "horizon": 3,
-   "date": "2026-10-21",
-   "pm25": 34.7,
-   "category": "Moderate"
+   "date": "2026-10-22",
+   "pm25": 36.1,
+   "category": "Unhealthy for sensitive groups"
   },
   {
    "city": "Lahore",
    "horizon": 3,
-   "date": "2026-10-21",
-   "pm25": 70.6,
+   "date": "2026-10-22",
+   "pm25": 82.6,
    "category": "Unhealthy"
   },
   {
    "city": "Peshawar",
    "horizon": 3,
-   "date": "2026-10-21",
-   "pm25": 36.9,
+   "date": "2026-10-22",
+   "pm25": 38.8,
    "category": "Unhealthy for sensitive groups"
   }
  ],
  "observed": [
-  {
-   "city": "Lahore",
-   "date": "2026-10-05",
-   "pm25": 62.2
-  },
   {
    "city": "Lahore",
    "date": "2026-10-06",
@@ -160,9 +155,9 @@
    "pm25": 53.2
   },
   {
-   "city": "Peshawar",
-   "date": "2026-10-05",
-   "pm25": 44.0
+   "city": "Lahore",
+   "date": "2026-10-19",
+   "pm25": 52.4
   },
   {
    "city": "Peshawar",
@@ -230,9 +225,9 @@
    "pm25": 30.0
   },
   {
-   "city": "Islamabad",
-   "date": "2026-10-05",
-   "pm25": 52.8
+   "city": "Peshawar",
+   "date": "2026-10-19",
+   "pm25": 37.0
   },
   {
    "city": "Islamabad",
@@ -300,9 +295,9 @@
    "pm25": 24.0
   },
   {
-   "city": "Karachi",
-   "date": "2026-10-05",
-   "pm25": 20.8
+   "city": "Islamabad",
+   "date": "2026-10-19",
+   "pm25": 25.2
   },
   {
    "city": "Karachi",
@@ -368,6 +363,11 @@
    "city": "Karachi",
    "date": "2026-10-18",
    "pm25": 44.8
+  },
+  {
+   "city": "Karachi",
+   "date": "2026-10-19",
+   "pm25": 37.6
   }
  ]
 }
