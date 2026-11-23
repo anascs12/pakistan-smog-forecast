@@ -1,99 +1,94 @@
 {
- "generated_at": "2026-11-22 13:22 PKT",
- "issue_day": "2026-11-21",
+ "generated_at": "2026-11-23 14:22 PKT",
+ "issue_day": "2026-11-22",
  "trained_through": "2026-09-30",
  "forecasts": [
   {
    "city": "Islamabad",
    "horizon": 1,
-   "date": "2026-11-22",
-   "pm25": 48.6,
+   "date": "2026-11-23",
+   "pm25": 46.8,
    "category": "Unhealthy for sensitive groups"
   },
   {
    "city": "Karachi",
    "horizon": 1,
-   "date": "2026-11-22",
-   "pm25": 34.9,
+   "date": "2026-11-23",
+   "pm25": 31.2,
    "category": "Moderate"
   },
   {
    "city": "Lahore",
    "horizon": 1,
-   "date": "2026-11-22",
-   "pm25": 146.8,
+   "date": "2026-11-23",
+   "pm25": 114.4,
+   "category": "Unhealthy"
+  },
+  {
+   "city": "Peshawar",
+   "horizon": 1,
+   "date": "2026-11-23",
+   "pm25": 44.0,
+   "category": "Unhealthy for sensitive groups"
+  },
+  {
+   "city": "Islamabad",
+   "horizon": 2,
+   "date": "2026-11-24",
+   "pm25": 48.0,
+   "category": "Unhealthy for sensitive groups"
+  },
+  {
+   "city": "Karachi",
+   "horizon": 2,
+   "date": "2026-11-24",
+   "pm25": 40.7,
+   "category": "Unhealthy for sensitive groups"
+  },
+  {
+   "city": "Lahore",
+   "horizon": 2,
+   "date": "2026-11-24",
+   "pm25": 109.0,
+   "category": "Unhealthy"
+  },
+  {
+   "city": "Peshawar",
+   "horizon": 2,
+   "date": "2026-11-24",
+   "pm25": 48.5,
+   "category": "Unhealthy for sensitive groups"
+  },
+  {
+   "city": "Islamabad",
+   "horizon": 3,
+   "date": "2026-11-25",
+   "pm25": 52.0,
+   "category": "Unhealthy for sensitive groups"
+  },
+  {
+   "city": "Karachi",
+   "horizon": 3,
+   "date": "2026-11-25",
+   "pm25": 38.6,
+   "category": "Unhealthy for sensitive groups"
+  },
+  {
+   "city": "Lahore",
+   "horizon": 3,
+   "date": "2026-11-25",
+   "pm25": 140.3,
    "category": "Very unhealthy"
   },
   {
    "city": "Peshawar",
-   "horizon": 1,
-   "date": "2026-11-22",
-   "pm25": 57.4,
+   "horizon": 3,
+   "date": "2026-11-25",
+   "pm25": 56.2,
    "category": "Unhealthy"
-  },
-  {
-   "city": "Islamabad",
-   "horizon": 2,
-   "date": "2026-11-23",
-   "pm25": 41.8,
-   "category": "Unhealthy for sensitive groups"
-  },
-  {
-   "city": "Karachi",
-   "horizon": 2,
-   "date": "2026-11-23",
-   "pm25": 34.5,
-   "category": "Moderate"
-  },
-  {
-   "city": "Lahore",
-   "horizon": 2,
-   "date": "2026-11-23",
-   "pm25": 94.7,
-   "category": "Unhealthy"
-  },
-  {
-   "city": "Peshawar",
-   "horizon": 2,
-   "date": "2026-11-23",
-   "pm25": 42.4,
-   "category": "Unhealthy for sensitive groups"
-  },
-  {
-   "city": "Islamabad",
-   "horizon": 3,
-   "date": "2026-11-24",
-   "pm25": 49.2,
-   "category": "Unhealthy for sensitive groups"
-  },
-  {
-   "city": "Karachi",
-   "horizon": 3,
-   "date": "2026-11-24",
-   "pm25": 40.5,
-   "category": "Unhealthy for sensitive groups"
-  },
-  {
-   "city": "Lahore",
-   "horizon": 3,
-   "date": "2026-11-24",
-   "pm25": 89.5,
-   "category": "Unhealthy"
-  },
-  {
-   "city": "Peshawar",
-   "horizon": 3,
-   "date": "2026-11-24",
-   "pm25": 48.0,
-   "category": "Unhealthy for sensitive groups"
   }
  ],
  "observed": [
-  {
-   "city": "Lahore",
-   "date": "2026-11-08",
-   "pm25": 100.4
-  },
   {
    "city": "Lahore",
    "date": "2026-11-09",
@@ -160,9 +155,9 @@
    "pm25": 152.1
   },
   {
-   "city": "Peshawar",
-   "date": "2026-11-08",
-   "pm25": 39.5
+   "city": "Lahore",
+   "date": "2026-11-22",
+   "pm25": 149.9
   },
   {
    "city": "Peshawar",
@@ -230,9 +225,9 @@
    "pm25": 72.6
   },
   {
-   "city": "Islamabad",
-   "date": "2026-11-08",
-   "pm25": 31.3
+   "city": "Peshawar",
+   "date": "2026-11-22",
+   "pm25": 50.6
   },
   {
    "city": "Islamabad",
@@ -300,9 +295,9 @@
    "pm25": 60.5
   },
   {
-   "city": "Karachi",
-   "date": "2026-11-08",
-   "pm25": 21.2
+   "city": "Islamabad",
+   "date": "2026-11-22",
+   "pm25": 51.7
   },
   {
    "city": "Karachi",
@@ -368,6 +363,11 @@
    "city": "Karachi",
    "date": "2026-11-21",
    "pm25": 40.0
+  },
+  {
+   "city": "Karachi",
+   "date": "2026-11-22",
+   "pm25": 38.1
   }
  ]
 }
